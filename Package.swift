@@ -18,8 +18,8 @@ let package = Package(
         // Targets are the basic building blocks of a package, defining a module or a test suite.
         .binaryTarget(
             name: "hidapi",
-            url: "https://www.gigabitelabs.com/frameworks/macOS/hidapi.xcframework.zip",
-            checksum: "b37384942b8d04533bdc0517e03b3efc50acaeb4b3761125d60113afb174ccb8"
+            url: "https://www.gigabitelabs.com/frameworks/macOS/universal/hidapi.xcframework.zip",
+            checksum: "375f5b706e5feee14fa6e3548e9fddadb499e5dae896d36217fcc6121c91ee96"
         ),
     ]
 )
