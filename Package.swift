@@ -19,7 +19,7 @@ let package = Package(
         .binaryTarget(
             name: "hidapi",
             url: "https://www.gigabitelabs.com/frameworks/macOS/universal/hidapi.xcframework.zip",
-            checksum: "c907a3be4767bf849bfcb3924ecfc9b47ba298b128aafcdda2269386c76642f3"
+            checksum: "82fe9f1d3b5349f218fe13f4b4127824e792b03e2ba800966e148786e9cf3cf9"
         ),
     ]
 )
